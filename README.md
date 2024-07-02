@@ -8,4 +8,5 @@ Standard: easy to use, high performance, powerful
 | orm | https://github.com/spring-projects/spring-data-jpa https://github.com/mybatis-flex/mybatis-flex https://github.com/baomidou/mybatis-plus https://github.com/mybatis-mapper/mapper | 
 | tools | https://github.com/google/guava https://commons.apache.org https://github.com/baomidou/mybatis-plus |
 | json | https://github.com/FasterXML/jackson |
-| log | https://github.com/apache/logging-log4j2 https://github.com/qos-ch/slf4j |
+| log | https://github.com/qos-ch/slf4j |
+| redis | https://github.com/redisson/redisson |
