@@ -13,9 +13,9 @@ Standard: easy to use, high performance, powerful
 # JDK
 | 名称 | 地址 | 
 |-|-|
-| Azul Zulu | https://www.azul.com/downloads/?version=java-25&package=jdk#zulu |
+| Azul Zulu | https://www.azul.com/downloads/?package=jdk#zulu |
 | Eclipse Adoptium Temurin | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
-| BellSoft Liberica | https://bell-sw.com/pages/downloads/#jdk-25-lts |
+| BellSoft Liberica | https://bell-sw.com/pages/downloads/ |
 | Amazon Corretto | https://docs.aws.amazon.com/corretto/latest/corretto-25-ug/downloads-list.html | 
-| Microsoft | https://learn.microsoft.com/zh-cn/java/openjdk/download#openjdk-25 |
+| Microsoft | https://learn.microsoft.com/zh-cn/java/openjdk/download |
 | IBM Semeru | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
