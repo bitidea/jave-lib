@@ -18,3 +18,4 @@ Standard: easy to use, high performance, powerful
 | BellSoft Liberica | https://bell-sw.com/pages/downloads/#jdk-25-lts |
 | Amazon Corretto | https://docs.aws.amazon.com/corretto/latest/corretto-25-ug/downloads-list.html | 
 | Microsoft | https://learn.microsoft.com/zh-cn/java/openjdk/download#openjdk-25 |
+| IBM Semeru | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
