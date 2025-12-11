@@ -13,9 +13,14 @@ Standard: easy to use, high performance, powerful
 # JDK
 | 名称 | 地址 | 
 |-|-|
-| Azul Zulu | https://www.azul.com/downloads/?package=jdk#zulu |
-| Eclipse Adoptium Temurin | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
-| BellSoft Liberica | https://bell-sw.com/pages/downloads/ |
-| Amazon Corretto | https://docs.aws.amazon.com/corretto/latest/corretto-25-ug/downloads-list.html | 
-| Microsoft | https://learn.microsoft.com/zh-cn/java/openjdk/download |
-| IBM Semeru | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
+| Azul Zulu (JavaFX) | https://www.azul.com/downloads/?package=jdk#zulu |
+| BellSoft Liberica (JavaFX) | https://bell-sw.com/pages/downloads/ |
+| Amazon Corretto | https://downloads.corretto.aws/#/downloads | 
+| Microsoft OpenJDK | https://learn.microsoft.com/zh-cn/java/openjdk/download |
+| IBM Semeru (AdoptOpenJDK OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
+| Eclipse Temurin(AdoptOpenJDK HotSpot) | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
+| Oracle GraalVM | https://www.oracle.com/downloads/graalvm-downloads.html |
+| Oracle OpenJDK | https://www.oracle.com/apac/java/technologies/downloads/ |
+| GraalVM Community | https://www.graalvm.org/downloads/ |
+| SAP SapMachine | https://www.oracle.com/apac/java/technologies/downloads/ |
+| JetBrainsRuntime (JCEF) | https://github.com/JetBrains/JetBrainsRuntime/releases |
