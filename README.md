@@ -38,11 +38,11 @@
 # Go
 | 模块 | 地址 |
 | -|-|
-| web | https://github.com/gofiber/fiber |
+| web | https://github.com/labstack/echo |
 | orm | https://github.com/go-gorm/gorm |
 | config | https://github.com/ilyakaznacheev/cleanenv |
 | test | https://github.com/stretchr/testify |
-| log | https://github.com/uber-go/zap |
+| log | https://pkg.go.dev/log/slog |
 | jose | https://github.com/golang-jwt/jwt |
 | redis | https://github.com/go-redis/redis |
 | cli | https://github.com/spf13/cobra |
