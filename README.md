@@ -67,7 +67,7 @@
 | package manager | https://github.com/astral-sh/uv |
 | formatter | https://github.com/astral-sh/ruff |
 | web | https://github.com/tiangolo/fastapi |
-| http | https://github.com/encode/httpx | 
+| http | https://github.com/jawah/niquests | 
 | orm | https://github.com/coleifer/peewee |  
 | ml | https://github.com/pytorch/pytorch |
 | data analysis | https://github.com/pandas-dev/pandas |
