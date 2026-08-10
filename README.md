@@ -38,7 +38,7 @@
 # Go
 | 模块 | 地址 |
 | -|-|
-| web | https://github.com/labstack/echo |
+| web | https://github.com/gofiber/fiber |
 | orm | https://github.com/go-gorm/gorm |
 | config | https://github.com/ilyakaznacheev/cleanenv |
 | test | https://github.com/stretchr/testify |
