@@ -38,7 +38,7 @@
 # Go
 | 模块 | 地址 |
 | -|-|
-| web | https://github.com/gofiber/fiber |
+| web | https://github.com/gin-gonic/gin |
 | orm | https://github.com/go-gorm/gorm |
 | config | https://github.com/ilyakaznacheev/cleanenv |
 | test | https://github.com/stretchr/testify |
