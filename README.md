@@ -27,8 +27,8 @@
 # JavaScript/TypeScript
 | 模块 | 地址 | 
 |-|-|
-| web | https://github.com/tanstack/router |
-| api | https://github.com/elysiajs/elysia |
+| web | https://github.com/nuxt/nuxt |
+| api | https://github.com/nitrojs/nitro |
 | orm | https://github.com/drizzle-team/drizzle-orm | 
 | schema validation | https://github.com/colinhacks/zod |
 | rpc | https://github.com/unnoq/orpc |
