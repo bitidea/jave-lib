@@ -14,9 +14,9 @@
 | Amazon Corretto | https://downloads.corretto.aws/#/downloads | 
 | Azul Zulu (JavaFX) | https://www.azul.com/downloads/?package=jdk#zulu |
 | BellSoft Liberica (JavaFX) | https://bell-sw.com/pages/downloads/ |
-| Eclipse Temurin (AdoptOpenJDK HotSpot) | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
+| Eclipse Temurin | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
 | GraalVM Community | https://www.graalvm.org/downloads/ |
-| IBM Semeru (AdoptOpenJDK OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
+| IBM Semeru (OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
 | JetBrainsRuntime (JCEF) | https://github.com/JetBrains/JetBrainsRuntime/releases |
 | Microsoft OpenJDK | https://learn.microsoft.com/zh-cn/java/openjdk/download |
 | Oracle GraalVM | https://www.oracle.com/downloads/graalvm-downloads.html |
@@ -44,21 +44,16 @@
 | config | https://github.com/caarlos0/env |
 | test | https://github.com/stretchr/testify |
 | log | https://pkg.go.dev/log/slog |
-| jose | https://github.com/golang-jwt/jwt |
-| redis | https://github.com/go-redis/redis |
+| jwt | https://github.com/golang-jwt/jwt |
+| redis | github.com/redis/go-redis |
 | cli | https://github.com/spf13/cobra |
 | crontab | https://github.com/go-co-op/gocron |
 | excel | https://github.com/qax-os/excelize |
-| websocket | https://github.com/gorilla/websocket |
+| websocket | https://github.com/coder/websocket |
 | decimal | https://github.com/shopspring/decimal |
-| di | https://github.com/uber-go/dig |
-| uuid | https://github.com/google/uuid |
-| data structures | https://github.com/emirpasic/gods |
 | fake data | https://github.com/brianvoe/gofakeit |
-| deep equal | https://github.com/google/go-cmp |
-| library | https://github.com/samber/lo https://github.com/duke-git/lancet https://github.com/gookit/goutil |
+| compare | https://github.com/google/go-cmp |
 | validate | https://github.com/go-playground/validator |
-| time | https://github.com/dromara/carbon |
 | http client | https://github.com/go-resty/resty |
 | auth | https://github.com/casbin/casbin |
 
@@ -69,7 +64,8 @@
 | formatter | https://github.com/astral-sh/ruff |
 | web | https://github.com/tiangolo/fastapi |
 | http | https://github.com/jawah/niquests | 
-| orm | https://github.com/coleifer/peewee |  
+| orm | https://github.com/sqlalchemy/sqlalchemy |  
+| lightweight orm | Peewee |  
 | ml | https://github.com/pytorch/pytorch |
 | data analysis | https://github.com/pandas-dev/pandas |
 | charts | https://github.com/matplotlib/matplotlib |
