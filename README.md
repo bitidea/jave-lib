@@ -8,22 +8,6 @@
 | log | https://github.com/qos-ch/slf4j |
 | redis | https://github.com/redisson/redisson |
 
-# JDK
-| 名称 | 地址 | 
-|-|-|
-| Amazon Corretto | https://downloads.corretto.aws/#/downloads | 
-| Azul Zulu (JavaFX) | https://www.azul.com/downloads/?package=jdk#zulu |
-| BellSoft Liberica (JavaFX) | https://bell-sw.com/pages/downloads/ |
-| Eclipse Temurin | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
-| GraalVM Community | https://www.graalvm.org/downloads/ |
-| IBM Semeru (OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
-| JetBrainsRuntime (JCEF) | https://github.com/JetBrains/JetBrainsRuntime/releases |
-| Microsoft OpenJDK | https://learn.microsoft.com/zh-cn/java/openjdk/download |
-| Oracle GraalVM | https://www.oracle.com/downloads/graalvm-downloads.html |
-| Oracle JDK | https://www.oracle.com/apac/java/technologies/downloads/ |
-| Oracle OpenJDK | https://jdk.java.net/ |
-| SAP SapMachine | https://sapmachine.io/ |
-
 # JavaScript/TypeScript
 | 模块 | 地址 | 
 |-|-|
@@ -76,3 +60,13 @@
 # Rust
 [An unofficial guide to the Rust ecosystem](https://blessed.rs/crates)
 
+# JDK
+| 名称 | 地址 | 
+|-|-|
+| Amazon Corretto | https://downloads.corretto.aws/#/downloads | 
+| Azul Zulu (JavaFX) | https://www.azul.com/downloads/?package=jdk#zulu |
+| BellSoft Liberica (JavaFX) | https://bell-sw.com/pages/downloads/ |
+| Eclipse Temurin | https://adoptium.net/zh-CN/temurin/releases?version=25&os=any&arch=any |
+| IBM Semeru (OpenJ9) | https://developer.ibm.com/languages/java/semeru-runtimes/downloads/ |
+| JetBrainsRuntime (JCEF) | https://github.com/JetBrains/JetBrainsRuntime/releases |
+| Microsoft OpenJDK | https://learn.microsoft.com/zh-cn/java/openjdk/download |
