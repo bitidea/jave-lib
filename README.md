@@ -1,7 +1,7 @@
 # Java
 | 模块 | 地址 | 
 |-|-|
-| web | https://github.com/quarkusio/quarkus |
+| web | https://github.com/spring-projects/spring-boot |
 | orm | https://github.com/hibernate/hibernate-orm | 
 | tools | https://github.com/google/guava https://commons.apache.org |
 | json | https://github.com/FasterXML/jackson |
