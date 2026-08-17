@@ -45,7 +45,7 @@
 | test | https://github.com/stretchr/testify |
 | log | https://pkg.go.dev/log/slog |
 | jwt | https://github.com/golang-jwt/jwt |
-| redis | github.com/redis/go-redis |
+| redis | https://github.com/redis/go-redis |
 | cli | https://github.com/spf13/cobra |
 | crontab | https://github.com/go-co-op/gocron |
 | excel | https://github.com/qax-os/excelize |
@@ -63,9 +63,8 @@
 | package manager | https://github.com/astral-sh/uv |
 | formatter | https://github.com/astral-sh/ruff |
 | web | https://github.com/tiangolo/fastapi |
-| http | https://github.com/jawah/niquests | 
-| orm | https://github.com/sqlalchemy/sqlalchemy |  
-| lightweight orm | Peewee |  
+| http | https://github.com/jawah/niquests |
+| orm | https://github.com/sqlalchemy/sqlalchemy |
 | ml | https://github.com/pytorch/pytorch |
 | data analysis | https://github.com/pandas-dev/pandas |
 | charts | https://github.com/matplotlib/matplotlib |
