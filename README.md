@@ -34,13 +34,14 @@
 | rpc | https://github.com/unnoq/orpc |
 | util | https://github.com/toss/es-toolkit |
 | time | https://github.com/date-fns/date-fns |
+| ui | https://github.com/nuxt/ui |
 
 # Go
 | 模块 | 地址 |
 | -|-|
 | web | https://github.com/gin-gonic/gin |
 | orm | https://github.com/go-gorm/gorm |
-| config | https://github.com/ilyakaznacheev/cleanenv |
+| config | https://github.com/caarlos0/env |
 | test | https://github.com/stretchr/testify |
 | log | https://pkg.go.dev/log/slog |
 | jose | https://github.com/golang-jwt/jwt |
